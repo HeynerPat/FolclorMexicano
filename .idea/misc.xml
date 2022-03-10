@@ -3,7 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/drawable/inputs_style.xml" value="0.1945" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_seleccion_estados.xml" value="0.25" />
       </map>
     </option>
   </component>

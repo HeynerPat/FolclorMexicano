@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Folclor Mexicano</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="LoginBienvenida">¡BIENVENIDO A FOLCLOR MEXICANO!</string>
+    <string name="creditos">App Creada por Heyner Pat</string>
+    <string name="Usuario">Usuario:</string>
+    <string name="Contraseña">Contraseña:</string>
 </resources>
