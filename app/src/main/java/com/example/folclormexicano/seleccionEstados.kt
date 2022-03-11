@@ -18,27 +18,27 @@ class seleccionEstados : AppCompatActivity() {
         val bSina = findViewById<Button>(R.id.bSina)
 
         bQr.setOnClickListener {
-            val intente = Intent(this,QuintanaRoo::class.java)
+            val intent = Intent(this,QuintanaRoo::class.java)
             startActivity(intent)
         }
         bYuc.setOnClickListener {
-            val intente = Intent(this,Yucatan::class.java)
+            val intent = Intent(this,Yucatan::class.java)
             startActivity(intent)
         }
         bCamp.setOnClickListener {
-            val intente = Intent(this,Campeche::class.java)
+            val intent = Intent(this,Campeche::class.java)
             startActivity(intent)
         }
         bJalis.setOnClickListener {
-            val intente = Intent(this,Jalisco::class.java)
+            val intent = Intent(this,Jalisco::class.java)
             startActivity(intent)
         }
         bQuere.setOnClickListener {
-            val intente = Intent(this,Queretaro::class.java)
+            val intent = Intent(this,Queretaro::class.java)
             startActivity(intent)
         }
         bSina.setOnClickListener {
-            val intente = Intent(this,Sinaloa::class.java)
+            val intent = Intent(this,Sinaloa::class.java)
             startActivity(intent)
         }
 

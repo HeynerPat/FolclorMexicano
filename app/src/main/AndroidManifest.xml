@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FolclorMexicano">
         <activity
+            android:name=".baileQr1"
+            android:exported="false" />
+        <activity
             android:name=".Sinaloa"
             android:exported="false" />
         <activity

@@ -13,4 +13,6 @@
     <string name="estado6">Sinaloa</string>
     <string name="iSeleccion">Bienvenido!, Seleccione un estado para poder ver los bailes folcloricos provenientes de esa region:</string>
     <string name="Entrar">Ver bailes</string>
+    <string name="Info">Ver mas</string>
+    <string name="BaileQR1">Pasacalle</string>
 </resources>
