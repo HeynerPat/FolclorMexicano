@@ -10,6 +10,111 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FolclorMexicano">
         <activity
+            android:name=".baileSina6"
+            android:exported="false" />
+        <activity
+            android:name=".baileSina5"
+            android:exported="false" />
+        <activity
+            android:name=".baileSina4"
+            android:exported="false" />
+        <activity
+            android:name=".baileSina3"
+            android:exported="false" />
+        <activity
+            android:name=".baileSina2"
+            android:exported="false" />
+        <activity
+            android:name=".baileSina1"
+            android:exported="false" />
+        <activity
+            android:name=".baileQuere6"
+            android:exported="false" />
+        <activity
+            android:name=".baileQuere5"
+            android:exported="false" />
+        <activity
+            android:name=".baileQuere4"
+            android:exported="false" />
+        <activity
+            android:name=".baileQuere3"
+            android:exported="false" />
+        <activity
+            android:name=".baileQuere2"
+            android:exported="false" />
+        <activity
+            android:name=".baileQuere1"
+            android:exported="false" />
+        <activity
+            android:name=".baileJalis6"
+            android:exported="false" />
+        <activity
+            android:name=".baileJalis5"
+            android:exported="false" />
+        <activity
+            android:name=".baileJalis4"
+            android:exported="false" />
+        <activity
+            android:name=".baileJalis3"
+            android:exported="false" />
+        <activity
+            android:name=".baileJalis2"
+            android:exported="false" />
+        <activity
+            android:name=".baileJalis1"
+            android:exported="false" />
+        <activity
+            android:name=".baileCamp6"
+            android:exported="false" />
+        <activity
+            android:name=".baileCamp5"
+            android:exported="false" />
+        <activity
+            android:name=".baileCamp4"
+            android:exported="false" />
+        <activity
+            android:name=".baileCamp3"
+            android:exported="false" />
+        <activity
+            android:name=".baileCamp2"
+            android:exported="false" />
+        <activity
+            android:name=".baileCamp1"
+            android:exported="false" />
+        <activity
+            android:name=".baileYuc6"
+            android:exported="false" />
+        <activity
+            android:name=".baileYuc5"
+            android:exported="false" />
+        <activity
+            android:name=".baileYuc4"
+            android:exported="false" />
+        <activity
+            android:name=".baileYuc3"
+            android:exported="false" />
+        <activity
+            android:name=".baileYuc2"
+            android:exported="false" />
+        <activity
+            android:name=".baileYuc1"
+            android:exported="false" />
+        <activity
+            android:name=".baileQr6"
+            android:exported="false" />
+        <activity
+            android:name=".baileQr5"
+            android:exported="false" />
+        <activity
+            android:name=".baileQr4"
+            android:exported="false" />
+        <activity
+            android:name=".baileQr3"
+            android:exported="false" />
+        <activity
+            android:name=".baileQr2"
+            android:exported="false" />
+        <activity
             android:name=".baileQr1"
             android:exported="false" />
         <activity
