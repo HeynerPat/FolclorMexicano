@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.FolclorMexicano">
         <activity
+            android:name=".Sinaloa"
+            android:exported="false" />
+        <activity
+            android:name=".Queretaro"
+            android:exported="false" />
+        <activity
+            android:name=".Jalisco"
+            android:exported="false" />
+        <activity
+            android:name=".Campeche"
+            android:exported="false" />
+        <activity
+            android:name=".Yucatan"
+            android:exported="false" />
+        <activity
+            android:name=".QuintanaRoo"
+            android:exported="false" />
+        <activity
             android:name=".seleccionEstados"
             android:exported="false" />
         <activity
