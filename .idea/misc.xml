@@ -5,7 +5,42 @@
       <map>
         <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/drawable/bloquear.xml" value="0.1945" />
         <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/drawable/inputs_style.xml" value="0.1945" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_camp1.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_camp2.xml" value="0.3748753738783649" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_camp3.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_camp4.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_camp5.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_camp6.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_jalis1.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_jalis2.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_jalis3.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_jalis4.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_jalis5.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_jalis6.xml" value="0.17028985507246377" />
         <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_qr1.xml" value="0.33" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_qr2.xml" value="0.21" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_qr3.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_qr4.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_qr5.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_qr6.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_quere1.xml" value="0.25" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_quere2.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_quere3.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_quere4.xml" value="0.3748753738783649" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_quere5.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_quere6.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_sina1.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_sina2.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_sina3.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_sina4.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_sina5.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_sina6.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_yuc1.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_yuc2.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_yuc3.xml" value="0.5" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_yuc4.xml" value="0.5" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_yuc5.xml" value="0.17028985507246377" />
+        <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_baile_yuc6.xml" value="0.17028985507246377" />
         <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_campeche.xml" value="0.25" />
         <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_jalisco.xml" value="0.25" />
         <entry key="..\:/Users/heyne/AndroidStudioProjects/FolclorMexicano/app/src/main/res/layout/activity_main.xml" value="0.33" />
