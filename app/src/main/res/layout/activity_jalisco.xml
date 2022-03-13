@@ -133,7 +133,7 @@
                         app:srcCompat="@drawable/jarabetapatio" />
 
                     <Button
-                        android:id="@+id/b5"
+                        android:id="@+id/b3"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="10dp"
@@ -163,7 +163,7 @@
                         app:srcCompat="@drawable/eltranchete" />
 
                     <Button
-                        android:id="@+id/b6"
+                        android:id="@+id/b4"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="10dp"
@@ -199,7 +199,7 @@
                         app:srcCompat="@drawable/elcaballito" />
 
                     <Button
-                        android:id="@+id/b3"
+                        android:id="@+id/b5"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="10dp"
@@ -229,7 +229,7 @@
                         app:srcCompat="@drawable/elhuizache" />
 
                     <Button
-                        android:id="@+id/b4"
+                        android:id="@+id/b6"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:layout_margin="10dp"
