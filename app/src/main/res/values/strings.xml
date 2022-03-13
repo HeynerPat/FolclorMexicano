@@ -11,8 +11,13 @@
     <string name="estado4">Jalisco</string>
     <string name="estado5">Queretaro</string>
     <string name="estado6">Sinaloa</string>
-    <string name="iSeleccion">Bienvenido!, Seleccione un estado para poder ver los bailes folcloricos provenientes de esa region:</string>
+    <string name="iSeleccion">Bienvenido! Seleccione un estado para poder ver los bailes folcloricos provenientes de esa region:</string>
     <string name="Entrar">Ver bailes</string>
     <string name="Info">Ver mas</string>
     <string name="BaileQR1">Pasacalle</string>
+    <string name="BaileQr2">Chicleros</string>
+    <string name="BaileQr3">Sambay Macho</string>
+    <string name="BaileQr4">Baile en un Pie</string>
+    <string name="BaileQr5">Popurrí</string>
+    <string name="BaileQr6">Fandango</string>
 </resources>

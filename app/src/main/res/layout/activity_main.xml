@@ -4,9 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/fondo1"
-    android:padding="15dp"
+    android:background="@drawable/fondo5"
     android:orientation="vertical"
+    android:padding="15dp"
     tools:context=".MainActivity">
 
 
@@ -24,8 +24,7 @@
         android:id="@+id/imageView"
         android:layout_width="match_parent"
         android:layout_height="180dp"
-        app:srcCompat="@drawable/bailarines"
-        tools:srcCompat="@drawable/bailarines" />
+        app:srcCompat="@drawable/logo" />
 
     <TextView
         android:id="@+id/textView3"
@@ -48,8 +47,8 @@
         android:drawablePadding="10dp"
         android:ems="10"
         android:inputType="textPersonName"
-        tools:ignore="SpeakableTextPresentCheck"
-        app:errorIconDrawable="@null"/>
+        app:errorIconDrawable="@null"
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <TextView
         android:id="@+id/textView4"
@@ -72,9 +71,9 @@
         android:drawablePadding="10dp"
         android:ems="10"
         android:inputType="textPassword"
-        tools:ignore="SpeakableTextPresentCheck"
+        app:errorIconDrawable="@null"
         app:passwordToggleEnabled="true"
-        app:errorIconDrawable="@null"/>
+        tools:ignore="SpeakableTextPresentCheck" />
 
     <Button
         android:id="@+id/bIngresar"
