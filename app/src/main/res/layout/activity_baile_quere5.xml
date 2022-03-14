@@ -18,33 +18,45 @@
         app:titleTextColor="@color/white"
         tools:ignore="MissingConstraints"></androidx.appcompat.widget.Toolbar>
 
-    <TextView
-        android:id="@+id/textView9"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="15dp"
-        android:background="#86FFFFFF"
-        android:text="@string/BaileQuere5"
-        android:textAlignment="center"
-        android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:textColor="@color/black"
-        android:textStyle="bold" />
+        android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:background="#86FFFFFF"
-        app:srcCompat="@drawable/elsombrerito" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
 
-    <TextView
-        android:id="@+id/textView10"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="23dp"
-        android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
-        android:textColor="@color/black" />
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:background="#86FFFFFF"
+                android:text="@string/BaileQuere5"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="#86FFFFFF"
+                app:srcCompat="@drawable/elsombrerito" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="23dp"
+                android:background="#66FFFFFF"
+                android:padding="10dp"
+                android:text="Danza popular en el siglo XIX. Convivió en los salones de esa época con otros de sociedad como la Polka, la mazurka, el vals Boston y la Habanera.  Sombrero tomado con la mano derecha. Se dan una vuelta entera y desplazamientos frontales semicirculares. En el estribillo los bailarines colocaban los sombreros en el suelo, frente a sus pies, realizando una evolución semejante a un ocho, delimitado en sus extremos por los sombreros. La vestimenta que se ocupa es la misma que usa el huaso. El atuendo elegante es usado en rodeos y donde se baile cueca. - Sombrero: Es de paño de color negro o chupalla de paja. - Camisa - Chaquetilla: es corta y entallada - Faja: es ancha, de lana roja u otro color y termina en flecos - Zapatos de Huaso: Tienen un tacón alto para que la rodaja de las espuelas no toque el suelo. - Manta: es de lana o hilo tiene diseños como racimos de uvas, herraduras, hojas, copihues. Polaina o pernera: está hecha de cuero y se pone arriba del pantalón amarrada con correas."
+                android:textAlignment="viewStart"
+                android:textColor="@color/black" />
+        </LinearLayout>
+    </ScrollView>
 
 </LinearLayout>

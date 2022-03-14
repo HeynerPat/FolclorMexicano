@@ -43,8 +43,9 @@
         android:layout_height="wrap_content"
         android:layout_margin="23dp"
         android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
+        android:padding="10dp"
+        android:text="son interpretados por alineaciones musicales formadas mayormente por trombones, clarinetes, trompetas, timbales, bombo y güiro, y suelen ser la base de tres tipos de festejos cuyos orígenes también se remontan a la época colonial: las vaquerías (fiestas “de hacienda” relacionadas con el conteo y el marcado de ganado por parte de los vaqueros), las fiestas del palmar (festejos que se organizan en la playa, bajo las palmeras) y los saraos (fiestas nocturnas “de salón”)."
+        android:textAlignment="viewStart"
         android:textColor="@color/black" />
 
 </LinearLayout>

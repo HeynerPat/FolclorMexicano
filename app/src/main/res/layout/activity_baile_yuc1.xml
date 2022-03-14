@@ -43,8 +43,9 @@
         android:layout_height="wrap_content"
         android:layout_margin="23dp"
         android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
+        android:padding="10dp"
+        android:text="Las suertes son muestras de destreza o habilidad que algunos jaraneros realizan ocasionalmente en la fiesta de la vaquería; requieren precisión y equilibrio. La más conocida de estas suertes consiste en bailar con una botella de cerveza o de licor encima de la cabeza, o incluso una charola, cuatro vasos y una botella."
+        android:textAlignment="viewStart"
         android:textColor="@color/black" />
 
 </LinearLayout>

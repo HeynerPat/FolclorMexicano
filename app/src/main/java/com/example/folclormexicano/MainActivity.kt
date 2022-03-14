@@ -23,12 +23,21 @@ class MainActivity : AppCompatActivity() {
         bIngresar.setOnClickListener{
             val nUsuario = etNombre.getText().toString()
             val pass:String = etContraseña.getText().toString()
-            if(nUsuario.equals("Heyner") && pass.equals("Heynerk31")){
-                var intent = Intent(this,seleccionEstados::class.java)
-                startActivity(intent)
-                Toast.makeText(this,"Bienvenido!",Toast.LENGTH_SHORT).show()
+            if(nUsuario.equals("HeynerPat") || pass.equals("Heynerk31")){
+                if(nUsuario.equals("HeynerPat")){
+                    if(pass.equals("Heynerk31")){
+                        var intent = Intent(this,seleccionEstados::class.java)
+                        startActivity(intent)
+                        Toast.makeText(this,"Bienvenido!",Toast.LENGTH_SHORT).show()
+                    }else{
+                        Toast.makeText(this,"Contraseña incorrecta",Toast.LENGTH_SHORT).show()
+                    }
+                }else{
+                    Toast.makeText(this,"Usuario incorrecto",Toast.LENGTH_SHORT).show()
+                }
+
             }else{
-                Toast.makeText(this,"Usuario o Contraseña incorrectos",Toast.LENGTH_SHORT).show()
+                Toast.makeText(this,"Usuario y Contraseña incorrectos",Toast.LENGTH_SHORT).show()
             }
         }
 

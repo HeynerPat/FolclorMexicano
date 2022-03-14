@@ -18,33 +18,45 @@
         app:titleTextColor="@color/white"
         tools:ignore="MissingConstraints"></androidx.appcompat.widget.Toolbar>
 
-    <TextView
-        android:id="@+id/textView9"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="15dp"
-        android:background="#86FFFFFF"
-        android:text="@string/BaileYuc2"
-        android:textAlignment="center"
-        android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:textColor="@color/black"
-        android:textStyle="bold" />
+        android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:background="#86FFFFFF"
-        app:srcCompat="@drawable/chinitokoykoy" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
 
-    <TextView
-        android:id="@+id/textView10"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="23dp"
-        android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
-        android:textColor="@color/black" />
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:background="#86FFFFFF"
+                android:text="@string/BaileYuc2"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="#86FFFFFF"
+                app:srcCompat="@drawable/chinitokoykoy" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="23dp"
+                android:background="#66FFFFFF"
+                android:padding="10dp"
+                android:text="Las mestizas, los mestizos, son los que visten el traje regional del Estado de Yucatán , traje típico que suele ponerse la gente todavía en toda la península pero sobre todo se usa más en las comisarias y centros de población. Además de que se usa como ropa típica, también se usa como ropa de gala, en las festividades ya sean del pueblo, los tradicionales, a la Virgen de Guadalupe o en fiestas sociales, solo que en ella es ropa de tela más fina, con encajes, rebozo y otros accesorios que adornan a la mujer. Y en el caso de los varones se ponen el albo traje blanco, con camisa llamada filipina y zapatos denominados alpargatas y sombrero blanco.Estos trajes se lucen mucho en los bailes de vaquería que generalmente son la primera noche de baile de las fiestas tradicionales que se realizan con corridas de toros o en su caso, también se realizan ahora en fiestas sociales a donde los invitados acuden con esos trajes que los hacen ver elegantes y las mujeres acompañan esos trajes con alhajas algunas de oro y otras de fantasia con aretes y collares de filigrana y diversos pulsos en las manos como los llamados media caña que son unos aros."
+                android:textAlignment="viewStart"
+                android:textColor="@color/black" />
+        </LinearLayout>
+    </ScrollView>
 
 </LinearLayout>

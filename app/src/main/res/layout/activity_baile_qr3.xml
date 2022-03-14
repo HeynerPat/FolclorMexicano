@@ -18,33 +18,45 @@
         app:titleTextColor="@color/white"
         tools:ignore="MissingConstraints"></androidx.appcompat.widget.Toolbar>
 
-    <TextView
-        android:id="@+id/textView9"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="15dp"
-        android:background="#86FFFFFF"
-        android:text="@string/BaileQr3"
-        android:textAlignment="center"
-        android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:textColor="@color/black"
-        android:textStyle="bold" />
+        android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:background="#86FFFFFF"
-        app:srcCompat="@drawable/sambaymacho" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
 
-    <TextView
-        android:id="@+id/textView10"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="23dp"
-        android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
-        android:textColor="@color/black" />
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:background="#86FFFFFF"
+                android:text="@string/BaileQr3"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="#86FFFFFF"
+                app:srcCompat="@drawable/sambaymacho" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="23dp"
+                android:background="#66FFFFFF"
+                android:padding="10dp"
+                android:text="Este tambien es un baile zapateado y es rapido, de hecho se le considera uno de los mas rapidos en la region. Esta danza, a comparacion de las demas, puede disfrutarse de individualmente, pues no se requiere una pareja para ejecutarlo, sin embargo, estas presentaciones suelen hacerse en grupos de bailadores en linea. Este nombre se otrogaba a este baile de parejas que se llevaba a cabo de forma comun durante los años 30s de Quintana Roo, en algunas fiestas que se realizaban en algunos barrios de Chetumal. Algunas personas dicen que representa el enamoramiento entre la libelula macho y la hembra, pues su ritmo, vigor, y rapidez lo hace un tanto complicado y lo convierte en todo un baile de resistencia."
+                android:textAlignment="viewStart"
+                android:textColor="@color/black" />
+        </LinearLayout>
+    </ScrollView>
 
 </LinearLayout>

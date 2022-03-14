@@ -18,33 +18,45 @@
         app:titleTextColor="@color/white"
         tools:ignore="MissingConstraints"></androidx.appcompat.widget.Toolbar>
 
-    <TextView
-        android:id="@+id/textView9"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="15dp"
-        android:background="#86FFFFFF"
-        android:text="@string/BaileJalis1"
-        android:textAlignment="center"
-        android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:textColor="@color/black"
-        android:textStyle="bold" />
+        android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:background="#86FFFFFF"
-        app:srcCompat="@drawable/toroviejo" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
 
-    <TextView
-        android:id="@+id/textView10"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="23dp"
-        android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
-        android:textColor="@color/black" />
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:background="#86FFFFFF"
+                android:text="@string/BaileJalis1"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="#86FFFFFF"
+                app:srcCompat="@drawable/toroviejo" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="23dp"
+                android:background="#66FFFFFF"
+                android:padding="10dp"
+                android:text="Es una de las más tradicional y de las más representativas del Carnaval de Barranquilla. La danza es de origen africano. Consiste en un grupo de bailarines de cantidad indeterminada que danzan al son de tambores. Cada año participan en el Carnaval de Barranquilla y han sido ganadores consecutivamente desde hace casi 300 años.  La danza fue fundada el 19 de enero de 1878 por el barranquillero Angel Joseph . Esta danza hace parte de las llamadas Danzas negras o de Congos  Su creación se dio a partir del rechazo que hicieron a su fundador en la danza El Toro Grande, debido a su corta edad (20 años), a partir de ahí Angel Joseph decidió crear su propio grupo, en compañía de varios amigos. JosephPlantilla:ª dirigió el grupo hasta el año 1930 cuando cedió el mando a su hijo, este ultimo la dirigió hasta el año 1973."
+                android:textAlignment="viewStart"
+                android:textColor="@color/black" />
+        </LinearLayout>
+    </ScrollView>
 
 </LinearLayout>

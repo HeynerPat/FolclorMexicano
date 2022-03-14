@@ -43,8 +43,9 @@
         android:layout_height="wrap_content"
         android:layout_margin="23dp"
         android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
+        android:padding="10dp"
+        android:text="La danza de los coyotes puede encontrarse entre los mayos en San Miguel, o entre los yaquis en Sonora.  La música que acompaña esta danza es la de un tambor de doble parche, con letras que hacen referencia a la vida del coyote. La principal celebración en la que se realiza este baile es Semana Santa.  Para esta danza, el bailarín se cubre la cabeza y la espalda con piel de coyote. Durante el baile representa a los movimientos de un coyote, al ritmo de la música."
+        android:textAlignment="viewStart"
         android:textColor="@color/black" />
 
 </LinearLayout>

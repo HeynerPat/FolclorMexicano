@@ -18,33 +18,46 @@
         app:titleTextColor="@color/white"
         tools:ignore="MissingConstraints"></androidx.appcompat.widget.Toolbar>
 
-    <TextView
-        android:id="@+id/textView9"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="15dp"
-        android:background="#86FFFFFF"
-        android:text="@string/BaileCamp1"
-        android:textAlignment="center"
-        android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:textColor="@color/black"
-        android:textStyle="bold" />
+        android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:background="#86FFFFFF"
-        app:srcCompat="@drawable/pichitoamoroso" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
 
-    <TextView
-        android:id="@+id/textView10"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="23dp"
-        android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
-        android:textColor="@color/black" />
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:background="#86FFFFFF"
+                android:text="@string/BaileCamp1"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="#86FFFFFF"
+                app:srcCompat="@drawable/pichitoamoroso" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="23dp"
+                android:background="#66FFFFFF"
+                android:padding="10dp"
+                android:text="Es uno de los bailes más alegres con que cuenta la bullanguera juventud campechana, definitivamente sus movimientos como los pide la música provienen del zarandeo y su ritmo es francamente tropical. Se baila imitando el vuelo de esta ave que pertenece a la familia de los tordos, pero que es muy fea y la más enamorada de todo el reino de las aves, por eso sus saltos y brincoteos dan lugar a elaboradas figuras y remates acompasados y bellos.  El traje regional de las mujeres campechanas es mestizo y tiene su origen en el estreno. Las mujeres solían estrenar cuatro veces al año: en el carnaval y en las fiestas de San Juan, San Román y la Purísima Concepción. En aquella época las patronas le relegaban a su servidumbre los ajuares completos, que con el paso del tiempo se convirtieron en el traje típico de la mujer campechana."
+                android:textAlignment="viewStart"
+                android:textColor="@color/black" />
+
+        </LinearLayout>
+    </ScrollView>
 
 </LinearLayout>

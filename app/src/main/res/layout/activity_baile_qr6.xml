@@ -43,8 +43,9 @@
         android:layout_height="wrap_content"
         android:layout_margin="23dp"
         android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
+        android:padding="10dp"
+        android:text="El fandango fue creado por españoles que vivían en América en el siglo XVIII, llegando su expansión a la propia península posteriormente. Este baile mestizo es muy vivo y alegre, compuesto por varios sones que se combinan con los pasos de la jarana."
+        android:textAlignment="viewStart"
         android:textColor="@color/black" />
 
 </LinearLayout>

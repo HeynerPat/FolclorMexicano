@@ -43,8 +43,9 @@
         android:layout_height="wrap_content"
         android:layout_margin="23dp"
         android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
+        android:padding="10dp"
+        android:text="La historia trata de un niño perdido que busca a su mamá, en este caso la bandainterpreta a la madre que llama al niño mientras que el trompetista quien previamente se ha bajado del escenario y se ha escondido por ahí responde los llamados de la madre con un solo de trompeta querepresenta el llanto del niño perdido. Estos lo bailan un grupo de personas en el video salieron cuatro así que a esto se le llama cuarteto. Y se movían en diferentes posiciones pero todo lohacían igual y al mismo tiempo."
+        android:textAlignment="viewStart"
         android:textColor="@color/black" />
 
 </LinearLayout>

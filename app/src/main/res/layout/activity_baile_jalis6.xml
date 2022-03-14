@@ -43,8 +43,9 @@
         android:layout_height="wrap_content"
         android:layout_margin="23dp"
         android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
+        android:padding="10dp"
+        android:text="la mujer comienza el baile moviendo la cintura con gracia. Ella levanta la falda con la punta de los dedos, al mismo tiempo que sostiene el rebozo y muestra coquetamente la habilidad de sus pasos luciendo su enagua interior. Los pasos de baile que utilizan representan un lenguaje ingenuo y de alegría, elementos que determinan la diferencia con otros bailes."
+        android:textAlignment="viewStart"
         android:textColor="@color/black" />
 
 </LinearLayout>

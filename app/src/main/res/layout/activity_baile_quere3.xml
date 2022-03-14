@@ -43,7 +43,8 @@
         android:layout_height="wrap_content"
         android:layout_margin="23dp"
         android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
+        android:padding="10dp"
+        android:text="es un baile zapateado de ritmo rápido que se interpreta con acompañamiento de dos violines, guitarra huapanguera y jarana huasteca mientras un cantante (generalmente la persona que toca la guitarra huapanguera) da cuenta de breves e ingeniosas “poesías” (glosas de línea unidas a una estructura musical conocida como tonada) o “decimales” (cuartetas glosadas en décimas que implican una estructura musical llamada valona) que reciben el nombre de trovas, muchas de las cuales se improvisan en el momento de acuerdo al tema del festejo."
+        android:textAlignment="viewStart"
         android:textColor="@color/black" />
 </LinearLayout>

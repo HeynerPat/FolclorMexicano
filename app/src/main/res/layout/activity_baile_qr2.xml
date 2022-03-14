@@ -43,8 +43,9 @@
         android:layout_height="wrap_content"
         android:layout_margin="23dp"
         android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
+        android:padding="10dp"
+        android:text="Es una representacion del cortejo de los trabajadores del campo hacia una mujer del pueblo. Dentro de esta puesta en escena, no falta aquel hombre que se propasa u ofende, por lo que la situacion termina en un peligroso duelo a machetazos. La mùsica que lo acompaña, es un ritmo de son interpretado con instrumentos de bronce rapido. Es una danza totalmente energetica, y se ocupa todo el escenario disponible."
+        android:textAlignment="viewStart"
         android:textColor="@color/black" />
 
 </LinearLayout>

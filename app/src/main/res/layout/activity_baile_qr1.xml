@@ -43,8 +43,9 @@
         android:layout_height="wrap_content"
         android:layout_margin="23dp"
         android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
+        android:padding="10dp"
+        android:text="Esta danza es lenta, de tres tiempos a la marcha popular del compàs vivo, el cual, era ejecutado por una clase social alta y durante mitad del siglo. El baile pasacalle se asemeja màs a algunas danzas europeas y la forma de bailarlo es en grupos de pares de hombres y mujeres, quienes se visten con ropa tìpica del baile folclorico de Quintana Roo. Se caracteriza por llevar una cadencia elegante en el cual predomina un valseado en combinacion con una variante en la que se realiza un paso cruzado flexionando remates alternados pero evitando perder la compostura."
+        android:textAlignment="viewStart"
         android:textColor="@color/black" />
 
 </LinearLayout>

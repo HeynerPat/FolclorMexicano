@@ -43,8 +43,9 @@
         android:layout_height="wrap_content"
         android:layout_margin="23dp"
         android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
+        android:padding="10dp"
+        android:text="La guaranducha 6 X 8, zapateada, nieta de los aires andaluces e hija de los sones mestizos,es de movimiento de vivo marcado a dos tiempos, cuyo acento rítmico cae en elsegundo tercio del tiempo ligero del compás, en una nota que puede ser prolongadahasta el tercer tercio o sincopado hasta el primer tercio del siguiente compás. Una delas características musicales de la jarana 6 X 8 es la de reforzar el segundo tercio detiempo pesado de los compases impares, mediante una apoyatura superior desegunda mayor o menor, en la actualidad se ha perdido esta particularidad en suescritura más no así en su ejecución, ya que los músicos lo hacen siempreintuitivamente a manera de adorno"
+        android:textAlignment="viewStart"
         android:textColor="@color/black" />
 
 </LinearLayout>

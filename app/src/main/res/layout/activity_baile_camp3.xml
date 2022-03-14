@@ -18,33 +18,46 @@
         app:titleTextColor="@color/white"
         tools:ignore="MissingConstraints"></androidx.appcompat.widget.Toolbar>
 
-    <TextView
-        android:id="@+id/textView9"
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="15dp"
-        android:background="#86FFFFFF"
-        android:text="@string/BaileCamp3"
-        android:textAlignment="center"
-        android:textAppearance="@style/TextAppearance.AppCompat.Large"
-        android:textColor="@color/black"
-        android:textStyle="bold" />
+        android:layout_height="match_parent">
 
-    <ImageView
-        android:id="@+id/imageView2"
-        android:layout_width="match_parent"
-        android:layout_height="200dp"
-        android:background="#86FFFFFF"
-        app:srcCompat="@drawable/pregonero" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
 
-    <TextView
-        android:id="@+id/textView10"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="23dp"
-        android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
-        android:textColor="@color/black" />
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:background="#86FFFFFF"
+                android:text="@string/BaileCamp3"
+                android:textAlignment="center"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:textColor="@color/black"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:id="@+id/imageView2"
+                android:layout_width="match_parent"
+                android:layout_height="200dp"
+                android:background="#86FFFFFF"
+                app:srcCompat="@drawable/pregonero" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="23dp"
+                android:background="#66FFFFFF"
+                android:padding="10dp"
+                android:text="La canción del “Pregonero Campechano”, junto con las grandes murallas y coloniales barrios, se ha convertido en una tradición muy representativa del estado de Campeche. A continuación se presenta un análisis del contenido de la canción, el cual estuvo a cargo de Zoila Quijano Mc. Gregor:  A lo largo de toda la canción se menciona cómo los pregoneros, que fueron muy populares hace mucho tiempo atrás en el estado de Campeche, pasaban vendiendo y pregonando todo su producto hasta acabar con él. Un pregón es un parlamento que se hace en voz alta en los sitios públicos de algo que conviene que todos sepan, es también un discurso elogioso en el que se anuncia al público la celebración de una festividad y se les incita a participar en ella. En este caso los pregoneros caminando por las empedradas calles de la ciudad, daban a conocer todo lo que vendían como por ejemplo el pan que ya estaba listo para comerse, carbón, o como dice la canción, guayas. En los versos que le siguen, se hace referencia al panadero preparando la masa para hacer los panes, haciendo alusión a la famosa panadería “La imperial”, que fue muy famosa años atrás en la ciudad de San Francisco de Campeche. También se menciona al carbonero al andar mientras pregona su producto. En un pequeño verso se hace énfasis a una “feria de color”, que es la famosa feria de San Román que se lleva a cabo cada mes de septiembre para la celebración del 16 de septiembre."
+                android:textAlignment="viewStart"
+                android:textColor="@color/black" />
+
+        </LinearLayout>
+    </ScrollView>
 
 </LinearLayout>

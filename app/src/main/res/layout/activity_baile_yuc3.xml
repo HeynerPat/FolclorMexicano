@@ -43,8 +43,9 @@
         android:layout_height="wrap_content"
         android:layout_margin="23dp"
         android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
+        android:padding="10dp"
+        android:text="Un baile típico en las vaquerias (fiestas tradicionales de Yucatán) en donde se resalta la belleza de las mestizas que con su colorido maquillaje y vestidos bellamente hechos, engalanan las noches de fiesta en Yucatán."
+        android:textAlignment="viewStart"
         android:textColor="@color/black" />
 
 </LinearLayout>

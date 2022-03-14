@@ -43,8 +43,9 @@
         android:layout_height="wrap_content"
         android:layout_margin="23dp"
         android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
+        android:padding="10dp"
+        android:text="Es un baile folclórico que nació debido a la creencia de que en época antiguas, los toros bailaban el mambo con polleras rojas. En el baile podemos ver cuartetos perfectamente coordinados y ordenados entre sí.Este baile mezcla lo que es un poco la creencia sobre el baile de los toros y lo que representa el legado cultural de Sinaloa."
+        android:textAlignment="viewStart"
         android:textColor="@color/black" />
 
 </LinearLayout>

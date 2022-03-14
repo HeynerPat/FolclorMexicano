@@ -43,8 +43,9 @@
         android:layout_height="wrap_content"
         android:layout_margin="23dp"
         android:background="#66FFFFFF"
-        android:text="La historia de la este baule es de mucho timepo antras dedse ahdyen hdyhdashd hwysyshdndiwhdadns hasdhyduasdifnasdbsayd  nduwdnadnso parejas dnasdsiadasjd un gran vestido azul rojizo con amapoleas y cosas del estado que los caracteriszan es de grannn maravillosidad la vdd ojala alguna dia tengas el guston de poder ver estas serie de rpesenctacionaessd asds"
-        android:textAlignment="center"
+        android:padding="10dp"
+        android:text="Las parejas que lo bailan no se tocan en ningún momento, y sus vestimentas características consisten en un colorido vestido con falda hasta debajo de la rodilla y blusa de manga larga con medio cuello alto, rebozo, dos trenzas tejidas con listones de colores, grandes arracadas doradas y zapatos negros para las mujeres, mientras que los hombres usan pantalón negro, camisa de colores brillantes, morral cruzado desde el hombro derecho, pañuelo anudado al cuello y sombrero serrano"
+        android:textAlignment="viewStart"
         android:textColor="@color/black" />
 
 </LinearLayout>
